@@ -340,7 +340,4 @@ ASALocalRun/
 healthchecksdb
 
 # CMake Output Folders
-HelloWorld/out
-UserInput/out
-FileMagic/out
-RandomSelection/out
+out/
